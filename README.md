@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Flux Example
+
+This project was implemented for study, using [Flux Application Architecture](https://facebook.github.io/flux/docs/overview.html)
+
+Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
